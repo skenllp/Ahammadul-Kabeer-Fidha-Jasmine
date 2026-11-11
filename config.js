@@ -13,7 +13,7 @@ window.INVITE = {
   timeText: "11:00 AM – 2:00 PM",
   hijriDate: "(17 Rajab 1448)",
   venue: "Blue Diamond International Convention Centre",
-  venueShort: "Blue Diamond International Convention Centre, Shornur",
+  venueShort: "Blue Diamond International Convention Centre, Kulappully",
   address: "Kulappully, Shornur - 2",
   mapUrl: "https://maps.app.goo.gl/AQxfkyzzDWQpVnzE6",
   eventName: "Wedding Ceremony",
